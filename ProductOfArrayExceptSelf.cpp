@@ -16,6 +16,7 @@ The result is
 
 Thus multiple of left and right side except that element is the answer
 
+http://www.geeksforgeeks.org/a-product-array-puzzle/
 */
 
 //This is the same implementation with constant space O(1)[output array is ignored from space complexity computation]
